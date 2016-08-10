@@ -1,4 +1,3 @@
-layout_spectrum: 0.034097125520929694
 typography_spectrum: 0.7124641865957528
 color:
   brandStrength: 0.7240936709567904
@@ -6,9 +5,11 @@ color:
   saturation: 0.24727860908024013
   rhythmicContrast: 0.4053051364608109
   brandColors:
-    - '#FFFFFF'
-    - '#191E21'
-    - '#743A36'
-    - '#B7B9A4'
-    - '#808080'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.034097125520929694
 name: Hrana za pse Canagan
+description: Prehrana njihovih prednikov
